@@ -2,4 +2,4 @@
 my first repository with git.
 
 
-ignore this file. i'm just following the tutorial.
+ignore this file. i'm just following the tutorial git.
